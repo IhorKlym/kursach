@@ -1,7 +1,3 @@
-* Item
-    - First Subitem
-    - Second Subitem
-* Item
-    - Subitem
-    - Subitem
-* Item
+1. Первый пункт нумерованного списка
+2. Второй пункт
+⋅⋅*Ненумерованный вложенный список.
