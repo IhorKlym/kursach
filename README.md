@@ -1,6 +1,6 @@
 * Item
-    1. First Subitem
-    2. Second Subitem
+    - First Subitem
+    - Second Subitem
 * Item
     - Subitem
     - Subitem
